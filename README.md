@@ -12,4 +12,5 @@ Design Requirements:
 4. The PCB module should be battery powered and should be rechargable.
 5. A rotary switch to toggle battery power should replace the wick feeding knob on the lantern.
 6. Battery capacity should allow LED to operate for 8+ hours.
+7. The LED module should accomadate different lantern sizes and body styles.
    
